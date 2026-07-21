@@ -49,6 +49,11 @@ I am an Electrical Engineering B.Tech student at **IIT Madras** with a passion f
 
 ---
 
+### 📄 Resume
+🔗 [Resume](https://www.linkedin.com/in/ramakrishna-sadam-0364a92b1/)
+
+---
+
 ### 📚 Coursework
 
 - Deep Learning | Natural Language Processing | Modern Computer Vision | Reinforcement Learning[cite: 1]
@@ -59,7 +64,7 @@ I am an Electrical Engineering B.Tech student at **IIT Madras** with a passion f
 ### 📫 Contact & Links
 
 - 📧 **Email:** srksrksrksrk2005@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/ramakrishna-sadam-0364a92b1/)
-- 🐙 **GitHub:** [github.com/SadamRamakrishna](https://github.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ramakrishna-sadam](https://www.linkedin.com/in/ramakrishna-sadam-0364a92b1/)
+- 🐙 **GitHub:** [github.com/srksrksrksrk2005](https://github.com/srksrksrksrk2005)
 
 *Thanks for visiting my profile!*l
